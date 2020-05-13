@@ -3,7 +3,8 @@ var myObject = new Vue({
   data: {
     h: 'HH',
     m: 'MM',
-    s: 'SS'
+    s: 'SS',
+    city: ''
   },
 })
 
